@@ -10,6 +10,7 @@ Text Domain: mangastream
 */
 
 @import url('https://fonts.googleapis.com/css?family=Fira+Sans:400,400i,500,500i,600,600i,700,700i&display=swap');
+background-color:white;
 :focus{outline:none}
 *,::before,::after{box-sizing:border-box}
 blockquote,q{margin:5px 0;quotes:none;background:#252230;border-left:3px solid #353535;padding:5px 10px}
